@@ -1,0 +1,2 @@
+# minimal
+Wallpaperable minimal category
